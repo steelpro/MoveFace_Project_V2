@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\zachb\\Downloads\\PtTOM\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\zachb\\.android\\build-cache\\6e5be0dd9cbdfbec87fd5fe06d0a8d53c9b535af\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\zachb\\Downloads\\PtTOM\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\zachb\\.android\\build-cache\\6e5be0dd9cbdfbec87fd5fe06d0a8d53c9b535af\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\zachb\\Downloads\\PtTOM\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\zachb\\.android\\build-cache\\6e5be0dd9cbdfbec87fd5fe06d0a8d53c9b535af\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\zachb\\Downloads\\PtTOM\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\zachb\\.android\\build-cache\\6e5be0dd9cbdfbec87fd5fe06d0a8d53c9b535af\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    }
+]

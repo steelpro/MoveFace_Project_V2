@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\zachb\\Downloads\\PtTOM\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "C:\\Users\\zachb\\.android\\build-cache\\6e5be0dd9cbdfbec87fd5fe06d0a8d53c9b535af\\output\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\zachb\\Downloads\\PtTOM\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\zachb\\.android\\build-cache\\6e5be0dd9cbdfbec87fd5fe06d0a8d53c9b535af\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\zachb\\Downloads\\PtTOM\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\zachb\\.android\\build-cache\\6e5be0dd9cbdfbec87fd5fe06d0a8d53c9b535af\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\zachb\\Downloads\\PtTOM\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
+        "source": "C:\\Users\\zachb\\.android\\build-cache\\cdafedc2c5fb7458ed8942d93efc81d8357074c0\\output\\res\\color\\design_error.xml"
+    },
+    {
+        "merged": "C:\\Users\\zachb\\Downloads\\PtTOM\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\zachb\\.android\\build-cache\\6e5be0dd9cbdfbec87fd5fe06d0a8d53c9b535af\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\zachb\\Downloads\\PtTOM\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\zachb\\.android\\build-cache\\6e5be0dd9cbdfbec87fd5fe06d0a8d53c9b535af\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\zachb\\Downloads\\PtTOM\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\zachb\\.android\\build-cache\\6e5be0dd9cbdfbec87fd5fe06d0a8d53c9b535af\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\zachb\\Downloads\\PtTOM\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\zachb\\.android\\build-cache\\6e5be0dd9cbdfbec87fd5fe06d0a8d53c9b535af\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\zachb\\Downloads\\PtTOM\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "C:\\Users\\zachb\\.android\\build-cache\\6e5be0dd9cbdfbec87fd5fe06d0a8d53c9b535af\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\zachb\\Downloads\\PtTOM\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\zachb\\.android\\build-cache\\6e5be0dd9cbdfbec87fd5fe06d0a8d53c9b535af\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\zachb\\Downloads\\PtTOM\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\zachb\\.android\\build-cache\\6e5be0dd9cbdfbec87fd5fe06d0a8d53c9b535af\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\zachb\\Downloads\\PtTOM\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\zachb\\.android\\build-cache\\6e5be0dd9cbdfbec87fd5fe06d0a8d53c9b535af\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    }
+]

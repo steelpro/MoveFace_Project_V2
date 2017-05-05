@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Accelerometer</string>
+    <string name="tvWinLose">You Win!</string>
+    <string name="tvName">Enter your name:</string>
+    <string name="tvScore">Your score = </string>
+    <string name="btnSubmit">Submit</string>
+
+</resources>
